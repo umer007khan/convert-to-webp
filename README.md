@@ -5,5 +5,8 @@ How to convert my photos to webp format of Google
 3. Then use the provided code and instructions of this directory (https://github.com/PAPERPANKS/cwebp_compressor).
 4. Note: Add the image folder in enivorment path folder where you set path enivroment of cwebp.exe. Another advise is to not create subfolders in path enivoremnt folder
 5. The Screenshot is given below
+   i. cwebp_compressor.py is file from step 3
+   ii. images is folder in which .png files located\
+   iii. 50 is image quailty percentage it can be 1 to 100.
 ![Untitled](https://github.com/umer007khan/convert-to-webp/assets/56508999/1eb716c1-b326-42f0-bfc7-ca166fdbda7e)
 
